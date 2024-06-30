@@ -23,8 +23,8 @@ This project implements a conversational AI chatbot that interacts with users by
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/pdf-chatbot.git
-    cd pdf-chatbot
+    git clone https://github.com/abdinegara783/RAG-APPS-LLAMA2.git
+    cd RAG-APPS-LLAMA2
     ```
 
 2. Create a virtual environment:
@@ -46,8 +46,7 @@ This project implements a conversational AI chatbot that interacts with users by
 ## Usage
 
 1. Start the application:
-    ```sh
-    python app.py
+    ```chainlit run app_new.py
     ```
 
 2. Open your web browser and navigate to the provided URL.
