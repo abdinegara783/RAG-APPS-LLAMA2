@@ -1,6 +1,3 @@
-# RAG-APPS-LLAMA2
-This project is a generative ai project, you can ask about pdf documents and directly communicate with LLM. 
-
 # PDF Chatbot with LangChain and Chainlit
 
 This project implements a conversational AI chatbot that interacts with users by processing and understanding PDF documents. It leverages the power of LangChain, PyPDF2, Chainlit, and GROQ language models to provide an efficient and interactive experience.
