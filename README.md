@@ -59,6 +59,9 @@ This project implements a conversational AI chatbot that interacts with users by
 
 5. Once the PDF is processed, you can start asking questions about its content.
 
+## UI Design
+
+
 ## Example
 
 ```markdown
@@ -70,3 +73,4 @@ This project implements a conversational AI chatbot that interacts with users by
 **Bot**: The main topic of the first chapter is about the introduction to AI and its applications.
 
 **Sources:** source_0, source_1
+
