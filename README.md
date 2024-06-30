@@ -15,6 +15,7 @@ This project implements a conversational AI chatbot that interacts with users by
 
 - Python 3.8 or higher
 - [GROQ API Key](https://groq.com/api-key) (Sign up to obtain your API key)
+- [Ollama](https://ollama.com/) (download Ollama in here)
 
 ### Installation
 
@@ -42,15 +43,21 @@ This project implements a conversational AI chatbot that interacts with users by
 
 ## Usage
 
-1. Start the application:
-    ```chainlit run app_new.py
+1. Using Ollama Embedding in [Here](https://ollama.com/library/nomic-embed-text), open cmd in your computer and start to embedding the model:
+   ```sh
+   ollama pull nomic-embed-text
+   ```
+
+2. Start the application:
+    ```sh
+    chainlit run app_new.py
     ```
 
-2. Open your web browser and navigate to the provided URL.
+3. Open your web browser and navigate to the provided URL.
 
-3. Upload a PDF file when prompted.
+4. Upload a PDF file when prompted.
 
-4. Once the PDF is processed, you can start asking questions about its content.
+5. Once the PDF is processed, you can start asking questions about its content.
 
 ## Example
 
